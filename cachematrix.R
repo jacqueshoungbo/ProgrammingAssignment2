@@ -1,3 +1,4 @@
+## The whole thing is adapted from the model, of course !!!
 ## This function creates a special "matrix" object that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
